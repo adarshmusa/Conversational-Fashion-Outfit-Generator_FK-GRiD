@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
    pip install -r requirements.txt
 4. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run st_chat_app.py
 ## Usage
 
 Once the app is running, interact with the chatbot through the Streamlit interface. Enter attributes related to fashion preferences to receive personalized outfit recommendations.
