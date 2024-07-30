@@ -1,2 +1,45 @@
-# Conversational-Fashion-Outfit-Generator_FK-GRiD
-A "Conversational Fashion Outfit Generator powered by GenAI" developed for Flipkart GRiD 5.0
+# Conversational Fashion Outfit Generator
+
+## Overview
+
+The Conversational Fashion Outfit Generator is a chatbot designed to provide trendy outfit recommendations based on user preferences. Developed for Flipkart GRiD 5.0, this project uses Python, Streamlit, and OpenAI technologies to deliver both text and image-based suggestions.
+
+## Features
+
+- **Interactive Chatbot:** Provides fashion recommendations in response to user queries.
+- **Trend Analysis:** Uses a fine-tuned language model to generate relevant outfit suggestions.
+- **Visual Output:** Displays outfit recommendations with images, ensuring a visual representation of the suggestions.
+- **Technology Stack:** 
+  - **Streamlit:** For creating an interactive front-end interface.
+  - **OpenAI API:** To leverage advanced language models.
+  - **LlamaIndex & LangChain:** For enhanced language processing capabilities.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/adarshmusa/Conversational-Fashion-Outfit-Generator_FK-GRiD.git
+2. Navigate to the project directory:
+   ```bash
+   cd Conversational-Fashion-Outfit-Generator_FK-GRiD
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+## Usage
+
+Once the app is running, interact with the chatbot through the Streamlit interface. Enter attributes related to fashion preferences to receive personalized outfit recommendations.
+
+## Contributing
+
+Feel free to submit issues, suggestions, or pull requests to enhance the functionality of the chatbot. Contributions are welcome!
+
+## Acknowledgements
+
+* Flipkart GRiD 5.0 for the opportunity to develop this project.
+* OpenAI for providing powerful language models.
+* Streamlit for an easy-to-use interface framework.
