@@ -1,4 +1,4 @@
-<img width="1178" alt="Screenshot 2024-07-30 184944" src="https://github.com/user-attachments/assets/8c20337a-79c7-47c0-83f3-65968d22e88b"># Conversational Fashion Outfit Generator
+# Conversational Fashion Outfit Generator
 
 ## Overview
 
