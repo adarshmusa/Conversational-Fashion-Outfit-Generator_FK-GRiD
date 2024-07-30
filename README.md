@@ -1,11 +1,11 @@
-# Conversational Fashion Outfit Generator
+<img width="1178" alt="Screenshot 2024-07-30 184944" src="https://github.com/user-attachments/assets/8c20337a-79c7-47c0-83f3-65968d22e88b"># Conversational Fashion Outfit Generator
 
 ## Overview
 
 The Conversational Fashion Outfit Generator is a chatbot designed to provide trendy outfit recommendations based on user preferences. Developed for Flipkart GRiD 5.0, this project uses Python, Streamlit, and OpenAI technologies to deliver both text and image-based suggestions.
 
-<img width="856" alt="Screenshot 2024-07-30 184002" src="https://github.com/user-attachments/assets/d8ad8381-22b9-4d7c-a999-e2650a0bfee4">
 <img width="855" alt="Screenshot 2024-07-30 183919" src="https://github.com/user-attachments/assets/4bc45500-7884-4f43-ba57-97db689ef136">
+<img width="1178" alt="Screenshot 2024-07-30 184944" src="https://github.com/user-attachments/assets/ed091548-f894-4668-8245-400de52daff5">
 
 ## Features
 
